@@ -1,1 +1,5 @@
 language: python
+notifications:
+  email: false
+python:
+- '3.6'
